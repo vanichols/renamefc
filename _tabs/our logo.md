@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
 layout: page
-icon: fas fa-stream
-order: 1
+icon: fas fa-mountain
+order: 2
 ---
