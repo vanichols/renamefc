@@ -5,7 +5,7 @@ icon: fas fa-mountain
 order: 3
 ---
 
-### Our logo is inspired by Fremont County's wonderful flag!
+### Our logo is inspired by the wonderful flag of Fremont County, Colorado!
 
 <img src="assets/img/flag.png" width="1280" height="768" alt="Fremont County flag" style="border: 2px solid grey;">
 
