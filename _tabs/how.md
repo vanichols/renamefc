@@ -13,4 +13,4 @@ order: 2
     * [Fremont County Crusader](https://www.fremontcountycrusader.com/) 
 * Contact the [Fremont County Commissioners](https://fremontcountyco.gov/commissioners/meet-commissioners)
 * Contact the [Colorado Geographic Naming Advisory Board](https://dnr.colorado.gov/colorado-geographic-naming-advisory-board)
-* Contact the [Cañon City City Council](https://www.canoncity.org/129/Mayor-City-Council)
+* Contact the City Council of [Cañon City](https://www.canoncity.org/129/Mayor-City-Council)
