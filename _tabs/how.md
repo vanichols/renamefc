@@ -2,7 +2,7 @@
 # the default layout is 'page'
 layout: page
 icon: fas fa-pencil
-order: 3
+order: 2
 ---
 
 ### How are we going to make this happen?

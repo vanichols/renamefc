@@ -2,7 +2,7 @@
 # the default layout is 'page'
 layout: page
 icon: fas fa-mountain
-order: 2
+order: 3
 ---
 
 ### Our logo is inspired by Fremont County's wonderful flag!
