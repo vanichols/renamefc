@@ -7,7 +7,7 @@ order: 3
 
 ### Our logo is inspired by Fremont County's wonderful flag!
 
-<img src= "assets/img/flag.png" width="1280" height="768" alt="Fremont County flag" style="border: 2px solid grey;">
+<img src="assets/img/flag.png" width="1280" height="768" alt="Fremont County flag" style="border: 2px solid grey;">
 
 * We chose our logo because it is a shining example of what can be produced using community-inclusive approaches to county level creative endeavors
 * Read more about the flag on the [Fremont County website](https://fremontcountyco.gov/fremont-county-flag)
