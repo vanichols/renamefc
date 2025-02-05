@@ -5,7 +5,7 @@ icon: fas fa-question
 order: 1
 ---
 
-### Renaming a county that is named after a controversial individual is important for several reasons
+### Renaming a place that is named after a controversial individual is important for several reasons
 
 1. The names of places often reflect the values and history that a community or society wants to honor. Keeping names that glorify controversial individuals can perpetuate a negative legacy and suggest tacit approval of their actions.
 2. Renaming places can help create a more inclusive environment. It recognizes the experiences and suffering of those who were negatively impacted by the actions of the individuals in question. It's a way to show respect and acknowledge past injustices.
