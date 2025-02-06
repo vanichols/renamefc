@@ -5,6 +5,8 @@ icon: fas fa-pencil
 order: 2
 ---
 
+{::options auto_ids="false" /}
+
 ### We need a county name referendum!
 
 * Write a letter to the editor of one of the local newspapers

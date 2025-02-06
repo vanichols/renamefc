@@ -5,6 +5,8 @@ icon: fas fa-mountain
 order: 3
 ---
 
+{::options auto_ids="false" /}
+
 ### The Rename Fremont County logo is inspired by the wonderful flag of Fremont County, Colorado!
 
 * We chose our logo because it is a shining example of what can be produced using community-inclusive approaches to county level creative endeavors

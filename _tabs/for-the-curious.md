@@ -5,6 +5,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+{::options auto_ids="false" /}
+
 * Who are we?
     * We are an unorganized group of avid fans and supporters of Fremont County!
 * Background info about [Geographic Renaming](https://en.wikipedia.org/wiki/Geographical_renaming)

@@ -5,6 +5,8 @@ icon: fas fa-question
 order: 1
 ---
 
+{::options auto_ids="false" /}
+
 ### There are so many reasons!
 
 **1. Seventeen municipalities, including cities, towns, and counties, in the US are named after Mr. Fremont**
