@@ -5,9 +5,19 @@ icon: fas fa-question
 order: 1
 ---
 
-### Renaming a place that is named after a controversial individual is important for several reasons
+### There are so many reasons!
 
-1. The names of places often reflect the values and history that a community or society wants to honor. Keeping names that glorify controversial individuals can perpetuate a negative legacy and suggest tacit approval of their actions.
-2. Renaming places can help create a more inclusive environment. It recognizes the experiences and suffering of those who were negatively impacted by the actions of the individuals in question. It's a way to show respect and acknowledge past injustices.
-3. Changing names can spark important conversations about history and prompt a re-evaluation of the figures we choose to honor. It encourages learning about the true impacts of historical figures and the values they embodied.
-4. Society evolves, and so do our standards of what is considered acceptable and honorable. Renaming places is a way to reflect contemporary values and strive for a more equitable future.
+**1. Seventeen municipalities, including cities, towns, and counties, in the US are named after Mr. Fremont**
+
+Our county is unique, and it deserves a name that reflects that uniqueness. 
+
+**2. Renaming could be good for tourism**
+
+Who wouldn't want to visit 'Sunshine County', or 'Fossil County', or 'Whitewater County', or 'Far Out County', or...
+
+**3. Community-sourced ideas can generate some real gems**
+
+Have you seen [New Zealand's laser-vision kiwi flag](https://en.wikipedia.org/wiki/Laser_Kiwi_flag)?
+
+
+
