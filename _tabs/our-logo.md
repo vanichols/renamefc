@@ -9,4 +9,6 @@ order: 3
 
 * We chose our logo because it is a shining example of what can be produced using community-inclusive approaches to county level creative endeavors
 * Read more about the flag on the [Fremont County website](https://fremontcountyco.gov/fremont-county-flag)
-* Download a royalty-free image of the flag from the [Fremont County Wikipedia page](https://upload.wikimedia.org/wikipedia/commons/archive/3/37/20240723003127%21Flag_of_Fremont_County%2C_Colorado.svg)
+* Download a royalty-free image of the flag from the [Fremont County Wikipedia page](https://commons.wikimedia.org/wiki/File:Flag_of_Fremont_County,_Colorado.svg)
+
+<img src="assets/img/flag.svg" width="1280" height="768" alt="Fremont County flag" style="border: 2px solid grey;">

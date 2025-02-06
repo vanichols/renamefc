@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="340.04248mm"
+   height="228.38673mm"
+   viewBox="0 0 340.04248 228.38673"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="fremontcountyflag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.52410025"
+     inkscape:cx="989.31455"
+     inkscape:cy="180.30902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.6159983,0.66181475)">
+    <rect
+       style="opacity:0.999;fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect1088-9"
+       width="340.04248"
+       height="76.128998"
+       x="-4.6159983"
+       y="-0.66181475" />
+    <rect
+       style="opacity:0.999;fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect1006"
+       width="340.04248"
+       height="76.128998"
+       x="-4.6159983"
+       y="151.59592" />
+    <path
+       id="rect30753"
+       style="opacity:0.999;fill:#fad279;stroke-width:0"
+       d="M 233.84073,-0.66181475 H 335.42648 V 75.467183 H 233.84073 Z M -4.6159983,75.466919 H 335.42648 V 151.59592 H -4.6159983 Z" />
+    <g
+       id="g52368"
+       transform="translate(-42.773098,-9.3314398)">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 144.05745,164.1663 199.58913,64.714115 259.6643,163.53527 Z"
+         id="path30846"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 144.05745,164.1663 c 0,0 15.39742,-1.13587 21.203,-8.01423 5.80559,-6.87835 21.20301,-38.80907 23.97959,-39.94494 2.77659,-1.13588 8.9608,2.01933 9.21321,3.029 0.25242,1.00967 3.66004,1.5145 2.52417,-1.64071 -1.13587,-3.15521 -2.14554,-7.82492 -1.38829,-7.95113 0.75725,-0.12621 8.96079,7.63561 9.78115,6.34197 0.82035,-1.29363 -0.94657,-11.3903 0.47328,-12.46307 1.41984,-1.07277 5.21156,0.76451 7.48725,3.48642 2.27569,2.7219 7.98723,0.17848 7.98723,0.17848 l 34.34626,56.34718 z"
+         id="path31418" />
+      <rect
+         style="opacity:0.999;fill:#005498;fill-opacity:1;stroke-width:1.89602;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect31573"
+         width="139.23466"
+         height="11.244592"
+         x="109.77733"
+         y="167.11462" />
+      <rect
+         style="opacity:0.999;fill:#005498;fill-opacity:1;stroke-width:1.89602;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect31573-8"
+         width="139.23466"
+         height="11.244592"
+         x="88.723999"
+         y="181.83969" />
+    </g>
+  </g>
+</svg>
